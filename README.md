@@ -17,3 +17,4 @@ https://git-scm.com/book/fr/v2
 
 **Participants :**
 Lussiez Stephen
+Girardin Killian
