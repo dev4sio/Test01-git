@@ -15,5 +15,5 @@ https://netbeans.apache.org/kb/docs/ide/git.html
 ## Git : Guide de référence en français
 https://git-scm.com/book/fr/v2
 
-Groupe :
-GIRARDIN Killian
+**Participants :**
+Lussiez Stephen
