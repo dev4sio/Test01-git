@@ -17,4 +17,5 @@ https://git-scm.com/book/fr/v2
 
 **Participants :**
 Lussiez Stephen
+Casado Quentin
 Girardin Killian
