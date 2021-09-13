@@ -15,4 +15,4 @@ https://netbeans.apache.org/kb/docs/ide/git.html
 ## Git : Guide de référence en français
 https://git-scm.com/book/fr/v2
 
-Lussiez Stephen né le 02/10/1998
+Lussiez Stephen
