@@ -18,3 +18,6 @@ https://git-scm.com/book/fr/v2
 **Participants :**
 gerbaud guilhem
 ahahahah salut
+Lussiez Stephen
+Casado Quentin
+Girardin Killian
